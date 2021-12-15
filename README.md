@@ -2,8 +2,9 @@
 
 
 **Charles2205/Charles2205** is a ✨ _special_ ✨ repository 
+https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
 
-
+https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 
 - 🔭 I’m interseted in  mobile app development
 - 🌱 I’m currently learning Flutter and Nodejs
