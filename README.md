@@ -8,11 +8,13 @@
 - 👯 I’m learning Frontend for the moment
 - 🤔 I’m looking for help with FLutter 
 - 📫 How to reach me: @cewudzie0@gmail.com
--Languages 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E />
--Framework
+
+&nbsp; <br> [![Spotify](https://chaarles-spotify.herokuapp.com) (https://open.spotify.com/user/1idkyf9mjjdraz01w5iqs8oi8])
+Languages 
+
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "/>
+Frameworks
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />                                                                                                     
-https://github-readme-stats.vercel.app/api?username=charles2205
-https://github-readme-streak-stats.herokuapp.com/?user=charles2205
