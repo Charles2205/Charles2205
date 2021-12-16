@@ -9,9 +9,9 @@
 - 🤔 I’m looking for help with FLutter 
 - 📫 How to reach me: @cewudzie0@gmail.com
 
-&nbsp; <br> [![Spotify](https://chaarles-spotify.herokuapp.com) (https://open.spotify.com/user/1idkyf9mjjdraz01w5iqs8oi8])
-Languages 
-
+ 
+  
+Languages
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "/>
 Frameworks
