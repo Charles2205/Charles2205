@@ -12,7 +12,6 @@
 [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Charles2205) -->
 
 
-<a href="https://app.daily.dev/C181"><img src="https://api.daily.dev/devcards/7602f748e11e4078b1169431ac57ee33.png?r=1vp" width="400" alt="Charles Ewudzie's Dev Card"/></a>
 
 
 
