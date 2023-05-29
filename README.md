@@ -6,7 +6,7 @@
 - 🔭 I’m interested in  mobile app development
 - 🌱 I’m currently learning Flutter and Nodejs
 - 👯 I’m learning Frontend for the moment
-- 🤔 I’m looking for help with FLutter 
+- 🤔 I’m looking for help with Flutter 
 - 📫 How to reach me: @cewudzie0@gmail.com
 -  ✨ PRIVATE <B>ACCOUNT</B> NOW 
 
