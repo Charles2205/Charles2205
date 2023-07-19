@@ -3,7 +3,7 @@
 
 <!-- **Charles2205/Charles2205** is a ✨ _special_ ✨ repository  -->
 
-- 🔭 I’m interested in  mobile app development
+- 🔭 I’m interested in Web & Mobile App Development
 - 🌱 I’m currently learning Flutter and Nodejs
 - 👯 I’m learning Frontend for the moment
 - 🤔 I’m looking for help with Flutter 
