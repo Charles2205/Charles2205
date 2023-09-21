@@ -37,7 +37,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Charles2205&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats2.vercel.app?user=Charles2205&theme=dark)](https://git.io/streak-stats)
 
 <table width="100%"> 
   <tr>
