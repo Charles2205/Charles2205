@@ -36,9 +36,11 @@
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+<details >
+   <summary>🎊: Github Stats</summary>
 
-[![GitHub Streak](https://github-readme-streak-stats2.vercel.app?user=Charles2205&theme=dark)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://github-readme-streak-stats2.vercel.app?user=Charles2205&theme=dark)](https://git.io/streak-stats)
+</details>
 <table width="100%"> 
   <tr>
   <td width="50%">
