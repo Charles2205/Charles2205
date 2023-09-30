@@ -66,5 +66,3 @@
   </td>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats2.vercel.app?user=Charles2205&theme=dark)](https://git.io/streak-stats)
-
