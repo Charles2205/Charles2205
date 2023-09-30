@@ -36,10 +36,15 @@
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 <details >
    <summary>🎊: Github Stats</summary>
 
-  [![GitHub Streak](https://github-readme-streak-stats2.vercel.app?user=Charles2205&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://gitstat-repo2.vercel.app?user=Charles2205&theme=dark)](https://git.io/streak-stats)
+  <br>
+[![Top Langs](https://gitstat-repo2.vercel.app/api/top-langs/?username=Charles2205)](https://github.com/Charles2205/gitstat-repo2)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles2205&show_icons=true&theme=transparent)
 </details>
 <table width="100%"> 
   <tr>
@@ -50,6 +55,9 @@
 <!--   </td>
   <td width="50%"> -->
 
+
+
+
 <!-- &nbsp [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/charles-ewudzi-b44614210/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
 [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Charles2205) -->
@@ -57,4 +65,6 @@
   </p>
   </td>
 </table>
+
+[![GitHub Streak](https://github-readme-streak-stats2.vercel.app?user=Charles2205&theme=dark)](https://git.io/streak-stats)
 
