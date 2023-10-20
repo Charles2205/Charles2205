@@ -1,5 +1,5 @@
 ### Hi there 👋 Charles 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Charles2205&label=Profile%20views&color=e91e63&style=flat&base=1000" alt="Charles" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Charles2205&label=Profile%20views&color=e91e63&style=flat&base=1000" alt="Charles" /> </p>
 
 <!-- **Charles2205/Charles2205** is a ✨ _special_ ✨ repository  -->
 
