@@ -5,7 +5,7 @@
 
 - 🔭 I’m interested in Web & Mobile App Development
 - 🌱 I’m currently learning JavaScript and Nodejs
-- 🤔 I’m looking for help with React / NextJS Projects 
+- 🤔 I’m looking for help with React Projects 
 - 📫 How to reach me: @cewudzie0@gmail.com
 -  ✨ 
 
