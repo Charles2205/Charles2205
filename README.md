@@ -52,7 +52,7 @@
 &nbsp; <br> [![Spotify](https://novatorem-o9blsxqj9-charles2205.vercel.app/api/spotify)](https://open.spotify.com/user/1idkyf9mjjdraz01w5iqs8oi8)
 
 <!--   </td>
-  <td width="50%"> -->
+  <td width="70%"> -->
 
 
 
