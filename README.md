@@ -1,22 +1,25 @@
-### Hi there 👋 Charles 
+### Hi there 👋 I'm Charles 
+***
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charles2205&label=Profile%20views&color=e91e63&style=flat&base=1000" alt="Charles" /> </p>
 
+***
 <!-- **Charles2205/Charles2205** is a ✨ _special_ ✨ repository  -->
 
 - 🔭 I’m interested in Web & Mobile App Development
 - 🌱 I’m currently learning JavaScript and Nodejs
 - 🤔 I’m looking for help with React Projects 
 - 📫 How to reach me: @cewudzie0@gmail.com
--  ✨ 
+-  ✨
+  ***
 
 
-<h3 align="left">🔌 CONNECT:</h3>
+<h3 align="left">🔌 Connect with me:</h3>
 
 [![telegram badge](https://img.shields.io/badge/TELEGRAM-30302f?style=for-the-badge&logo=telegram)]((https://t.me/creator1811))
 [![Twitter badge](https://img.shields.io/badge/X-30302f?style=for-the-badge&logo=x)](https://twitter.com/ewudzie_charles)
 [![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charles-ewudzi-b44614210)
 [![whatsApp badge](https://img.shields.io/badge/WHATSAPP-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233502974161?text=Hello%20Charles!%20I%27m%20coming%20from%20your%20Github%20profile)
-
+***
 
 ### Skills
 <p align="left">
@@ -36,6 +39,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+***
+
 <details >
    <summary>🎊: Github Stats</summary>
    
@@ -49,6 +54,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles2205&show_icons=true&theme=transparent)
 </details>
+
+***
 <table width="100%"> 
   <tr>
   <td width="50%">
