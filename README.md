@@ -38,11 +38,15 @@
 
 <details >
    <summary>🎊: Github Stats</summary>
+   `
+[![GitHub Streak](https://streak-stats.demolab.com?user=charles2205&theme=dark)](https://git.io/streak-stats)
+<br>
+<!--[![Top Langs](https://gitstat-repo2.vercel.app/api/top-langs/?username=Charles2205)](https://github.com/Charles2205/gitstat-repo2)-->
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats2.vercel.app?user=charlels2205&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://gitstat-repo2.vercel.app/api/top-langs/?username=Charles2205&layout=donut-vertical)](https://github.com/Charles2205/gitstat-repo2)
 <br>
-[![Top Langs](https://gitstat-repo2.vercel.app/api/top-langs/?username=Charles2205)](https://github.com/Charles2205/gitstat-repo2)
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charles2205&show_icons=true&theme=transparent)
 </details>
 <table width="100%"> 
