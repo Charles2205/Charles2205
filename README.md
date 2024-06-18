@@ -6,7 +6,7 @@
 <!-- **Charles2205/Charles2205** is a ✨ _special_ ✨ repository  -->
 
 - 🔭 I’m interested in Web & Mobile App Development
-- 🌱 I’m currently learning JavaScript and Nodejs
+- 🌱 I’m currently working JavaScript and Flutter projects
 - 📫 How to reach me: @cewudzie0@gmail.com
 -  ✨
   ***
