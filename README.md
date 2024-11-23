@@ -49,7 +49,7 @@ Here are some of the technologies I use in my projects:
 
 ---
 
-### 🎵 Music I’m Listening To   
+### 🎵 Music I’m Listening To  
 <table width="100%">
   <tr>
     <td align="center" width="50%">
@@ -63,11 +63,12 @@ Here are some of the technologies I use in my projects:
       <b>🎶 Spotify</b>  
       <br>
       <a href="https://open.spotify.com/user/1idkyf9mjjdraz01w5iqs8oi8" target="_blank">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1idkyf9mjjdraz01w5iqs8oi8&cover_image=true&theme=compact&show_offline=true&background_color=1c1c1c&interchange=false" alt="Spotify GitHub Profile" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1idkyf9mjjdraz01w5iqs8oi8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify GitHub Profile" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ---
