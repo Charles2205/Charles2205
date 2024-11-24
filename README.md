@@ -55,8 +55,8 @@ Here are some of the technologies I use in my projects:
     <td align="center" width="50%">
       <b>🎧 Apple Music</b>  
       <br>
-      <a href="https://github.com/rayriffy/apple-music-github-profile" target="_blank">
-        <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001551.2f73d665970a427b9107f8c04e8d6550.1730" alt="Apple Music GitHub Profile" />
+      <a href="https://github-profile-apple-music.web.app/api/v1/users/0YdxX44h7EmfSm83qlG7/recent/played/tracks?template=template_1_1" target="_blank">
+        <img src="https://github-profile-apple-music.web.app/api/v1/users/0YdxX44h7EmfSm83qlG7/recent/played/tracks?template=template_1_1" alt="Apple Music Recent Tracks" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -68,6 +68,7 @@ Here are some of the technologies I use in my projects:
     </td>
   </tr>
 </table>
+
 
 
 
