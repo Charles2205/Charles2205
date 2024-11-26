@@ -87,5 +87,5 @@ Here are some of the technologies I use in my projects:
 
 ---
 
-Thanks for visiting!  
-✨ Feel free to explore my repositories.  
+Thanks for visiting!     
+✨   Feel free to explore my repositories.  
